@@ -30,3 +30,10 @@ The system implements a **retrieval-augmented generation (RAG)** approach:
    - The retrieved content is passed to the **Llama 3.2 LLM**  as context to generate a final answer.
 
 ---
+
+## ⚙️ Features
+
+- Automatic transcript extraction from YouTube videos
+- Chunking and embedding of transcript text
+- Vector store indexing for efficient retrieval
+- LLM-powered RAG for natural language answers
